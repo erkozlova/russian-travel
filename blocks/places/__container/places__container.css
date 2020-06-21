@@ -1,0 +1,7 @@
+.places__container {
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 36vw 1fr;
+  grid-column-gap: 40px;
+  grid-row-gap: 48px;
+}

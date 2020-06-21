@@ -1,0 +1,11 @@
+.places__text {
+  width: 100%;
+  margin: 0;
+  font-size: 18px;
+  line-height: 1.67;
+  color: #FFFFFF;
+}
+
+.places__text:nth-child(1) {
+  margin-bottom: 24px;
+}
