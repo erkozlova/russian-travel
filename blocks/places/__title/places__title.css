@@ -5,3 +5,28 @@
   line-height: 1.06;
   color: #FFFFFF;
 }
+
+@media screen and (max-width: 1048px) {
+  .places__title {
+    font-size: 60px;
+  }
+}
+
+@media screen and (max-width: 924px) {
+  .places__title {
+    font-size: 43px;
+  }
+}
+
+@media screen and (max-width: 679px) {
+  .places__title {
+    font-size: 32px;
+  }
+}
+
+@media screen and (max-width: 624px) {
+  .places__title {
+    font-size: 48px;
+    margin-left: 16px;
+  }
+}

@@ -16,6 +16,6 @@
 
 **Проект на github**
 
-* [Ссылка на проект на github](https://vk.com/away.php?utf=1&to=https%3A%2F%2Ferkozlova.github.io%2Frussian-travel%2Findex.html)
+* [Ссылка на проект на github](https://erkozlova.github.io/russian-travel/index.html)
 
 Удачи!

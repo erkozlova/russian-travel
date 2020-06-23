@@ -7,3 +7,12 @@
   height: 740px;
   margin: 92px auto;
 }
+
+@media screen and (max-width: 1184px) {
+  .cover {
+    width: 100%;
+    /* 0.625 = 740px / 1184px (отношение сторон)*/
+    height: calc(0.625 * 100vw);
+  }
+}
+
